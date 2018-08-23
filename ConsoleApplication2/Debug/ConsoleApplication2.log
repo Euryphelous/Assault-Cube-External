@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+c:\users\ryuii\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(215): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryuii\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(226): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\ryuii\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(237): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\ryuii\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
