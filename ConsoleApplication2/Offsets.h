@@ -10,6 +10,7 @@ DWORD Y = 0x38;
 DWORD Z = 0x3C;
 DWORD Grenade = 0x158;
 DWORD CM = 0x1E4;
+DWORD FLY = 0x338;
 /////////////////////////////
 DWORD procID;
 /////////////////////////////
@@ -41,6 +42,7 @@ int newSmallPlayer;
 float newTeleportX;
 float newTeleportY;
 float newTeleportZ;
+int newFly;
 ////////////////////////////
 #endif // !Offsets
 
